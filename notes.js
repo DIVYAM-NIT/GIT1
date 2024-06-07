@@ -18,3 +18,8 @@ let college="NIT DURGAPUR"
 
 // git push -f  // it used when you change the head and you want to make the changes to the github also.
 // git push   // it will push all the staged items to the github..
+// git push --upstream-u <name of the server> <branch name>
+// git push -u <name of the server> <branch name>
+// git pull // to pull the request..
+// syntax is git remote -v  (to check whether the remote is set or not)
+// syntax is git remote add <name of the server> <https link>
