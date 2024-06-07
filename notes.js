@@ -1,3 +1,4 @@
+// link to the notes -> https://app.eraser.io/workspace/P96VaUsW5o0FXVOTDzHY
 let name="divyam sharma"
 let about="you are the best part of my life."
 
