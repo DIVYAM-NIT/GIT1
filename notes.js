@@ -23,3 +23,7 @@ let college="NIT DURGAPUR"
 // git pull // to pull the request..
 // syntax is git remote -v  (to check whether the remote is set or not)
 // syntax is git remote add <name of the server> <https link>
+
+// git branch <branch name> // to create the branch 
+// git checkout <branch name> // to switch the branch 
+
