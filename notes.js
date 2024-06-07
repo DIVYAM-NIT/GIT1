@@ -30,4 +30,14 @@ let college="NIT DURGAPUR"
 // git merge <server_name>/<new branch name>   // important to merge the new branch...
 // git checkout -b <branch name>  // this set the branch to new branch.
 
+// BRANCH NAME CONVENTION:
+// 1. feat/<your work>  // feature adding branch
+// 2. wip/<your work>   // work in progress
+// 3. bug/<your work>   // bug resolving branch
+// 4. junk/<your work>  // used for experiments
+
+// branching tags   // branching tags are the branch name only.
+// Perform the Squash Merge:
+//  Use the git merge --squash command followed by the feature branch name. git merge --squash feature-branch.
+
 
