@@ -26,4 +26,6 @@ let college="NIT DURGAPUR"
 
 // git branch <branch name> // to create the branch 
 // git checkout <branch name> // to switch the branch 
+// push all the changes in the new branch.
+// git merge <server_name>/<new branch name>   // important to merge the new branch...
 
