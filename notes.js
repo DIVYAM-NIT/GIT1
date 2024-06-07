@@ -40,4 +40,13 @@ let college="NIT DURGAPUR"
 // Perform the Squash Merge:
 //  Use the git merge --squash command followed by the feature branch name. git merge --squash feature-branch.
 
+// CONCEPTS 
+// 1. Use squash to make the one commit of all the commits. // in this you can use the revert option
+// 2. use rebase // in order change or redo use the reset command to do so // revert also works.
+
+
+// CONCEPT OF STASHING:
+// 1. git stash // it stores the changes teporarily that staged temporarily.
+// 2. git stash apply // it works like stack  and it again put all the changes at their position.
+
 
