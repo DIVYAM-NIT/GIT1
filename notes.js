@@ -12,3 +12,9 @@ let college="NIT DURGAPUR"
      // syntax is git remote add <name of the server> <https link>
 // here by default the <name of the server> is origin.
 // here you could set the <name of the server> as your wish.
+
+// CONCEPT OF SSH KEYS:
+// 1. FULL FORM SECURE SOCKET SHELL OR SECURE SHELL. 
+
+// git push -f  // it used when you change the head and you want to make the changes to the github also.
+// git push   // it will push all the staged items to the github..
