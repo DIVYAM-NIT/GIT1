@@ -11,3 +11,4 @@ let college="NIT DURGAPUR"
      // syntax is git remote -v  (to check whether the remote is set or not)
      // syntax is git remote add <name of the server> <https link>
 // here by default the <name of the server> is origin.
+// here you could set the <name of the server> as your wish.
